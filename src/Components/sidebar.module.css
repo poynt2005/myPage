@@ -1,0 +1,37 @@
+.sidebar {
+  height: 100%;
+  min-height: 100%;
+  max-height: 100%;
+  width: 18%;
+  text-align: center;
+
+  background-color: #292323;
+  color: white;
+
+
+  padding: 40px 20px 10px 20px;
+  font-family: 'cwTeXFangSong', serif;
+
+
+  display: inline-block;
+  box-sizing: border-box;
+
+  animation: fadeToRight 1s;
+}
+
+.title {
+  margin: 10px 0;
+  font-size: 2.5rem;
+}
+
+.inner {
+  font-size: 1.2rem;
+  margin: 20px 0;
+  height: 15%;
+}
+
+
+@keyframes fadeToRight{
+  from { transform: translateX(-1000px) }
+  to { transform: translateX(0px) }
+}

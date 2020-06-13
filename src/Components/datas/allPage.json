@@ -1,0 +1,58 @@
+{
+	"totalPage": 3,
+	"pageContents": [
+		{
+			"title": "自我介紹",
+			"sidebarTitle": "個人介紹",
+			"sidebarInner": [
+				"嗨~你好",
+				"歡迎來到我的自我介紹頁面",
+				"相識就是緣分，很高興認識你"
+			],
+			"maincontentTitle": "自我介紹",
+			"maincontentInner": [
+				"從小時候開始，我就對電腦有著極大的興趣",
+				"不只喜歡玩電玩，對於電腦的運作方式也非常地感興趣",
+				"出於對電腦的喜好，讓我從小就有將來在資訊行業從業的想法",
+				"我不只單單只使用電腦，我更想成為創造的那位",
+				"有鑑於此，大學我選擇了資訊工程系就讀",
+				"也期望日後所學可以應用在工作上"
+			]
+		},
+		{
+			"title": "專長",
+			"sidebarTitle": "我的專長",
+			"sidebarInner": [
+				"你好",
+				"歡迎來到我的專長介紹頁面"
+			],
+			"maincontentTitle": "專長",
+			"maincontentInner": [
+				"JavaScript: 在大四時因專題需要而自學的語言，也是目前最常用的語言",
+				"Python: 大三時選修網路概論時所學的語言，目前在日常生活中需要使用腳本處理資料時最常使用",
+				"Java: 大三時選修Java課程所學的語言，寫GUI程式時會用",
+				"C/C++: 大學時學校基礎課程所學",
+				"Express: Node.js框架，寫server時所使用"
+			]
+		},
+		{
+			"title": "規劃",
+			"sidebarTitle": "我的規劃",
+			"sidebarInner": [
+				"你好",
+				"這裡是目前規劃、正在學習中的知識",
+				"資訊行業變化很大",
+				"需要無時不刻的學習"
+			],
+			"maincontentTitle": "規劃目標",
+			"maincontentInner": [
+				"框架部分，目前正在學習JavaScript的前端框架React.js、Node.js的後端框架Koa",
+				"語言部分，正在學習Golang及PHP",
+				"React.js的組件化對於大型網頁的開發有很不錯的效果",
+				"Koa配合ES6的語法也是符合ECMAScript的精神",
+				"Golang快速的響應時間，較C/C++易於上手的特色，非常值得一學",
+				"PHP是目前使用最廣泛的網頁後端語言，也是非常需要掌握的"
+			]
+		}
+	]
+}
